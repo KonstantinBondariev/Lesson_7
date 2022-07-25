@@ -5,7 +5,7 @@
 /* bad style #2 */
 .pages__page1 a {
   color: yellowgreen;
-/* add good style */
+}
 .content {
   color: pink;
 }
