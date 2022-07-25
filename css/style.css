@@ -3,3 +3,6 @@
 }
 /* bad style #1 */
 /* bad style #2 */
+.pages__page1 a {
+  color: yellowgreen;
+}
